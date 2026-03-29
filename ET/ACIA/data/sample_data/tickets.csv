@@ -1,0 +1,16 @@
+ticket_id,title,priority,status,created_at,sla_hours,elapsed_hours,assigned_team,customer,estimated_penalty_inr,category
+T001,Payment gateway timeout,Critical,Open,2024-04-30 08:00,4,3.5,Backend,RetailCorp,500000,Performance
+T002,Database connection pool exhausted,High,Open,2024-04-30 09:00,8,7.8,Database,FinanceHub,200000,Infrastructure
+T003,API rate limit errors on checkout,High,Open,2024-04-30 06:30,8,7.2,Backend,EcomWorld,200000,Performance
+T004,Mobile app crash on login,Critical,Open,2024-04-30 10:00,4,2.1,Mobile,TechStart,500000,Bug
+T005,Email notifications not sending,Medium,Open,2024-04-29 14:00,24,22.5,Backend,GlobalCorp,50000,Bug
+T006,Report export failing for large datasets,Medium,Open,2024-04-29 10:00,24,21.0,Analytics,DataFirm,50000,Bug
+T007,SSH access restricted on prod,Low,Open,2024-04-28 09:00,72,42.0,Infra,InternalIT,10000,Security
+T008,CDN latency spike in US region,High,In Progress,2024-04-30 07:00,8,5.5,Infra,MediaMax,200000,Performance
+T009,Invoice PDF generation broken,Critical,Open,2024-04-30 11:00,4,1.2,Finance,FinanceHub,500000,Bug
+T010,Webhook delivery failures,High,In Progress,2024-04-30 05:00,8,6.8,Backend,IntegrateX,200000,Integration
+T011,2FA bypass vulnerability,Critical,Open,2024-04-30 12:00,2,0.5,Security,AllClients,750000,Security
+T012,Search indexing lag,Medium,Open,2024-04-29 16:00,24,18.0,Search,RetailCorp,50000,Performance
+T013,Bulk import timeout,Low,Open,2024-04-28 14:00,72,38.0,Backend,DataFirm,10000,Performance
+T014,GDPR data deletion not purging cache,High,Open,2024-04-30 08:30,8,4.5,Compliance,EUCorp,300000,Compliance
+T015,Load balancer misconfiguration,Critical,In Progress,2024-04-30 09:30,4,3.2,Infra,RetailCorp,500000,Infrastructure

@@ -1,0 +1,16 @@
+vendor_id,vendor_name,item_description,unit_price_inr,quantity,total_inr,contract_price_inr,market_price_inr,purchase_date,category
+V001,TechSupply Co,Laptop Dell XPS 15,95000,20,1900000,85000,82000,2024-01-10,Hardware
+V002,TechSupply Co,Laptop Dell XPS 15,95000,15,1425000,85000,82000,2024-01-15,Hardware
+V003,GlobalParts Ltd,Server RAM 32GB,12000,50,600000,9500,9000,2024-01-20,Hardware
+V004,QuickVend,Server RAM 32GB,9200,50,460000,9500,9000,2024-02-01,Hardware
+V005,OfficePro,Ergonomic Chair,18000,30,540000,15000,14000,2024-02-10,Furniture
+V006,OfficePro,Ergonomic Chair,18000,25,450000,15000,14000,2024-02-15,Furniture
+V007,CloudDist,SSD 1TB,8500,100,850000,7000,6800,2024-02-20,Storage
+V008,NetVendor,Network Switch 48-port,45000,10,450000,38000,36000,2024-03-01,Networking
+V009,NetVendor,Network Switch 48-port,45000,8,360000,38000,36000,2024-03-10,Networking
+V010,TechSupply Co,Monitor 27in 4K,32000,40,1280000,27000,26000,2024-03-15,Hardware
+V011,GlobalParts Ltd,UPS 2KVA,22000,15,330000,18000,17500,2024-03-20,Power
+V012,QuickVend,Keyboard Mechanical,3500,80,280000,2800,2600,2024-04-01,Peripherals
+V013,OfficePro,Printer LaserJet Pro,28000,12,336000,24000,23000,2024-04-10,Hardware
+V014,CloudDist,External HDD 4TB,9000,60,540000,7500,7200,2024-04-15,Storage
+V015,TechSupply Co,Webcam 4K,6500,50,325000,5000,4800,2024-04-20,Peripherals

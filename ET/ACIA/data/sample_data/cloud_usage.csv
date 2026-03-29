@@ -1,0 +1,16 @@
+server_id,server_name,region,instance_type,cpu_usage_pct,memory_usage_pct,disk_usage_pct,monthly_cost_inr,uptime_hours,last_active,environment,owner_team
+S001,prod-api-01,ap-south-1,t3.xlarge,62,58,45,12000,720,2024-04-30,Production,Backend
+S002,prod-api-02,ap-south-1,t3.xlarge,58,61,42,12000,720,2024-04-30,Production,Backend
+S003,dev-test-01,ap-south-1,m5.large,3,4,8,8500,720,2024-03-15,Development,DevOps
+S004,dev-test-02,ap-south-1,m5.large,2,3,5,8500,720,2024-03-10,Development,DevOps
+S005,staging-01,ap-south-1,m5.xlarge,4,6,12,15000,720,2024-03-20,Staging,QA
+S006,analytics-01,ap-south-1,r5.2xlarge,78,82,67,32000,720,2024-04-30,Production,Data
+S007,old-crm-01,us-east-1,t2.medium,1,2,3,4500,720,2024-01-05,Development,CRM
+S008,old-crm-02,us-east-1,t2.medium,1,2,4,4500,720,2024-01-05,Development,CRM
+S009,backup-srv-01,ap-south-1,t3.large,2,5,72,6000,720,2024-04-01,Production,Infra
+S010,ml-training-01,ap-south-1,p3.2xlarge,5,8,15,95000,720,2024-02-28,Development,ML
+S011,ml-training-02,ap-south-1,p3.2xlarge,3,5,10,95000,720,2024-02-20,Development,ML
+S012,db-replica-01,ap-south-1,r5.xlarge,82,88,71,28000,720,2024-04-30,Production,Database
+S013,db-replica-02,ap-south-1,r5.large,4,6,8,18000,720,2024-03-01,Production,Database
+S014,log-srv-01,ap-south-1,t3.medium,2,3,22,5500,720,2024-02-15,Production,DevOps
+S015,cdn-cache-01,ap-south-1,t3.small,1,2,5,3000,720,2024-01-20,Production,Infra

@@ -1,0 +1,16 @@
+license_id,tool_name,vendor,plan,total_seats,active_users,monthly_cost_inr,annual_cost_inr,renewal_date,department
+L001,Slack,Slack Inc,Business+,200,182,140000,1680000,2024-12-31,All
+L002,Jira,Atlassian,Premium,150,98,105000,1260000,2024-09-30,Engineering
+L003,Confluence,Atlassian,Premium,150,62,75000,900000,2024-09-30,Engineering
+L004,GitHub,GitHub,Enterprise,120,115,96000,1152000,2024-12-31,Engineering
+L005,Salesforce,Salesforce,Enterprise,80,43,320000,3840000,2024-06-30,Sales
+L006,Zoom,Zoom,Business,100,71,60000,720000,2024-12-31,All
+L007,Adobe Creative,Adobe,Teams,50,18,175000,2100000,2024-08-31,Marketing
+L008,Figma,Figma,Organization,60,42,90000,1080000,2024-11-30,Design
+L009,Notion,Notion,Business,80,22,32000,384000,2024-12-31,Operations
+L010,HubSpot,HubSpot,Marketing Hub,30,12,85000,1020000,2024-07-31,Marketing
+L011,Tableau,Tableau,Creator,25,9,125000,1500000,2024-10-31,Analytics
+L012,ServiceNow,ServiceNow,ITSM Pro,40,38,210000,2520000,2024-12-31,IT
+L013,Monday.com,Monday,Enterprise,60,14,48000,576000,2024-09-30,PMO
+L014,Datadog,Datadog,Pro,30,28,95000,1140000,2024-12-31,DevOps
+L015,Postman,Postman,Team,50,48,20000,240000,2024-12-31,Engineering
